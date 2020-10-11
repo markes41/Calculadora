@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+}
+.cuadrado {
+    width:30%;
+    background-color:#2d3033;
+  }
+
+
+.btn{
+    background-color: #202124;
+    color: #ebedef;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    font-size: 1.5rem;
+}
+.row button:hover{
+    color: #b3b3b3;
+}
+
+.textArea{
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color: #2d3033;
+    color: #ebedef;
+    padding: 1.3rem;
+    font-size: 1.5rem;
+    text-align: right;
+}
+
+.row{
+    align-items: flex-start;
+    background-color: #202124;
+    
+}
+
+.col-sm-3{
+    padding: 0;
+    text-align: center;
+}
+
+.botonReset{
+    margin: 0;
+    
+}
+
+.vertical{
+    vertical-align: middle;
+    position: relative;
+    left: 23.5rem;
+    bottom: 36.5rem;
+    
+}
+
